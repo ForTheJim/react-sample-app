@@ -1,7 +1,9 @@
-# Getting Started with Create React App
+# Basic Example for ReactJS application created using Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## TODO 
+Go Back and style this bad boy. It's ROUGH 😀
 ## Available Scripts
 
 In the project directory, you can run:
